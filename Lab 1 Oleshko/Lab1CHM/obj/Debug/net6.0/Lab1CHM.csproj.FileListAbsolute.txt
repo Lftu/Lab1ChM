@@ -1,0 +1,15 @@
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\bin\Debug\net6.0\Lab1CHM.exe
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\bin\Debug\net6.0\Lab1CHM.deps.json
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\bin\Debug\net6.0\Lab1CHM.runtimeconfig.json
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\bin\Debug\net6.0\Lab1CHM.dll
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\bin\Debug\net6.0\Lab1CHM.pdb
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.dll
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\ref\Lab1CHM.dll
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.pdb
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\Lab1CHM.genruntimeconfig.cache
+C:\Users\Алексей\source\repos\Lab1CHM\Lab1CHM\obj\Debug\net6.0\refint\Lab1CHM.dll
